@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It was largely based on the project by [HiImWhite](https://github.com/HiImWhite/Swapi_Search).
+You can view the SPA via the Github Pages link to the project[https://ducklipsndeuces.github.io/react-swapi/](https://ducklipsndeuces.github.io/react-swapi/).
 
 ## Available Scripts
 
